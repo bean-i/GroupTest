@@ -56,15 +56,23 @@
 		EACEA8132D8BEA02000DB916 /* GroupTest */ = {
 			isa = PBXGroup;
 			children = (
+				EACEA81C2D8BEB39000DB916 /* Jack */,
 				EACEA80A2D8BEA02000DB916 /* AppDelegate.swift */,
 				EACEA80B2D8BEA02000DB916 /* Assets.xcassets */,
 				EACEA80C2D8BEA02000DB916 /* Info.plist */,
 				EACEA80E2D8BEA02000DB916 /* LaunchScreen.storyboard */,
 				EACEA8102D8BEA02000DB916 /* Main.storyboard */,
 				EACEA8112D8BEA02000DB916 /* SceneDelegate.swift */,
-				EACEA8122D8BEA02000DB916 /* ViewController.swift */,
 			);
 			path = GroupTest;
+			sourceTree = "<group>";
+		};
+		EACEA81C2D8BEB39000DB916 /* Jack */ = {
+			isa = PBXGroup;
+			children = (
+				EACEA8122D8BEA02000DB916 /* ViewController.swift */,
+			);
+			path = Jack;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
