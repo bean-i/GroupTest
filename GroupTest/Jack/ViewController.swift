@@ -11,7 +11,11 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+<<<<<<<< HEAD:GroupTest/Hue/ViewController.swift
+        print("Hello, Hue")
+========
         print("Hello, Jack")
+>>>>>>>> cef26e268a55c4e8bb1b0117a7fcd22294115991:GroupTest/Jack/ViewController.swift
     }
 
 

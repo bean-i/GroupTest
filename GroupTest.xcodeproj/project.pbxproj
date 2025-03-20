@@ -67,11 +67,13 @@
 			path = GroupTest;
 			sourceTree = "<group>";
 		};
+
 		EACEA81D2D8BECD4000DB916 /* Hue */ = {
 			isa = PBXGroup;
 			children = (
 				EACEA8122D8BEA02000DB916 /* ViewController.swift */,
 			);
+
 			path = Hue;
 			sourceTree = "<group>";
 		};
